@@ -596,7 +596,7 @@ caseless@~0.12.0:
   resolved "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-chalk@^4.0.0:
+chalk@4.1.2, chalk@^4.0.0:
   version "4.1.2"
   resolved "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
@@ -939,6 +939,11 @@ enquirer@^2.3.5:
   integrity sha512-yjNnPr315/FjS4zIsUxYguYUPP2e1NK4d7E7ZOLiyYCcbFBiTMyID+2wvm2w6+pZ/odMA7cRkjhsPbltwBOrLg==
   dependencies:
     ansi-colors "^4.1.1"
+
+erc-20-abi@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/erc-20-abi/-/erc-20-abi-1.0.0.tgz#3df0f24458f902cade72f615c532b3b50d18beaf"
+  integrity sha512-X+kdxwbfegJ5quNHVyJPf72Y8g+rpurR3vA+K2b4jVUuAl3qHMYxnR7ZOJRC/T7kQu3V8XU4/U4mIJ+w5wUaeQ==
 
 es-abstract@^1.18.5:
   version "1.19.1"

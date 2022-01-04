@@ -6,11 +6,13 @@
   "dependencies": {
     "axios": "^0.24.0",
     "bn.js": "^5.2.0",
+    "chalk": "4.1.2",
     "consola": "^2.15.3",
+    "erc-20-abi": "^1.0.0",
     "web3": "^1.6.1"
   },
   "scripts": {
-    "dev": "eslint && node main.js",
+    "dev": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
